@@ -2,7 +2,7 @@
 
 ## 現場Aの測定データ
 
-[現場Aの測定データを開く（Googleスプレッドシート）](https://docs.google.com/spreadsheets/d/1TDOBpsr7aPwyIMrRbO-UeuNlvRa1ZJ6o5NACQNvN3do/edit?usp=sharing)
+[現場Aの測定データを開く（Googleスプレッドシート）](https://docs.google.com/spreadsheets/d/1TDOBpsr7aPwyIMrRbO-UeuNlvRa1ZJ6o5NACQNvN3do/edit)
 
 このファイルは、IMPORTRANGEの練習に使う架空データです。講座で使用するGoogleアカウントで開いてください。アクセスできない場合は講師に伝えてください。
 
