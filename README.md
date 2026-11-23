@@ -1,5 +1,11 @@
 # DX・IoTデータ処理講座 第2回 実習教材
 
+## AIプロンプト集・関数例
+
+[AIプロンプト集・関数例を開く](AIプロンプト集.md)
+
+講座で使う関数・QUERY の例と、AIへの依頼文（プロンプト）をまとめています。コードブロック右上のコピーボタンで、そのまま貼り付けられます。パスワード、ライトキー、合言葉（token）、受信用URL は、AIに貼る前に仮の値へ置き換えてください。
+
 ## 現場Aの測定データ
 
 [現場Aの測定データを開く（Googleスプレッドシート）](https://docs.google.com/spreadsheets/d/1TDOBpsr7aPwyIMrRbO-UeuNlvRa1ZJ6o5NACQNvN3do)
