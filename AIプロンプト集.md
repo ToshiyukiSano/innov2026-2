@@ -353,6 +353,7 @@ P43 ワーク（2つの現場を1つの表にまとめる）の式は、[README]
 貼る前に：
 
 - 第1回のプログラムを保存し、コピーしたものを使う。
+- 第1回のプログラムが手元にない場合は、[samples/m5stickc_minibient_sender.py](samples/m5stickc_minibient_sender.py) を使う（ライトキーは仮の値のまま）。
 - プログラム中のライトキーを `"WRITE_KEY_HIDDEN"`、Wi-Fi のパスワードがあれば `"WIFI_PASS_HIDDEN"` に置き換える。
 - ＿＿＿の部分を埋める。
 
