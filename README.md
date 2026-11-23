@@ -6,6 +6,17 @@
 
 講座で使う関数・QUERY の例と、AIへの依頼文（プロンプト）をまとめています。コードブロック右上のコピーボタンで、そのまま貼り付けられます。パスワード、ライトキー、合言葉（token）、受信用URL は、AIに貼る前に仮の値へ置き換えてください。
 
+## 第1回のサンプルプログラム（M5StickC → MiniBient）
+
+[samples/m5stickc_minibient_sender.py](samples/m5stickc_minibient_sender.py)
+
+第1回で使った、M5StickC と ENV III で温度・湿度・気圧を測り、MiniBient に HTTPS で送るプログラム（UIFlow2 系の MicroPython）です。
+
+- 使うときは、先頭の `CHANNEL_ID` と `WRITE_KEY` を自分のチャネルの値に書きかえます。送信間隔は `SEND_INTERVAL_SEC`（30秒）です。
+- 書きかえた後のファイル（実際のライトキー入り）は、AIに貼ったり、GitHub などに公開したりしないでください。
+- 第2回の GAS 送信の実習で、第1回のプログラムが手元にない人は、これをコピーして使います（AIに貼るときは `WRITE_KEY` を仮の値のままにします）。
+- 講座の後に MiniBient への測定に戻すときも、このプログラムを使えます。
+
 ## 現場Aの測定データ
 
 [現場Aの測定データを開く（Googleスプレッドシート）](https://docs.google.com/spreadsheets/d/1TDOBpsr7aPwyIMrRbO-UeuNlvRa1ZJ6o5NACQNvN3do)
